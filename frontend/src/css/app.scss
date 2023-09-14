@@ -1,0 +1,11 @@
+// app global css in SCSS form
+@media screen and (min-width: 1280px) {
+  .container {
+      width: 1280px;
+    }
+}
+
+
+.rupee:before {
+  content: "\20B9";
+}
